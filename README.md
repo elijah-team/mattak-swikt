@@ -1,12 +1,9 @@
-# Swikt
+# Swift to kotlin transpiler
 
-![test status](https://github.com/mattak/swikt/actions/workflows/test.yml/badge.svg?branch=main) ![github pages status](https://github.com/mattak/swikt/actions/workflows/gh-pages.yml/badge.svg?branch=main)
+![test status](https://github.com/elijah-team/mattak-swikt/actions/workflows/test.yml/badge.svg?branch=main) ![github pages status](https://github.com/elijah-team/mattak-swikt/actions/workflows/gh-pages.yml/badge.svg?branch=main)
 
-
-Swift to kotlin transpiler
-
-web
-- https://mattak.github.io/swikt/
+Deployted: https://elijah-team.github.io/mattak-swikt/
+Credit: https://github.com/mattak/swikt
 
 cli
 
